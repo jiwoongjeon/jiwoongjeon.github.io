@@ -10,7 +10,7 @@
   width: 1920px;
 }
 
-.work .image-5-vLgc0E {
+.work .image-51-vLgc0E {
   background-color: transparent;
   height: 1366px;
   left: -0px;
@@ -107,26 +107,26 @@
 
 .work .x2-rU6nWR {
   background-color: transparent;
-  height: 132px;
+  height: 124px;
   left: 746px;
   position: absolute;
-  top: 67px;
+  top: 75px;
   width: 413px;
 }
 
 .work .sns-BBPaoX {
   background-color: transparent;
   height: 124px;
-  left: -0px;
+  left: 0px;
   position: relative;
-  top: 8px;
+  top: 0px;
   width: 415px;
 }
 
 .work .icons-0Ef8L7 {
   background-color: transparent;
   height: 67px;
-  left: -0px;
+  left: 0px;
   position: absolute;
   top: 57px;
   width: 413px;
@@ -195,16 +195,16 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: center;
-  top: -0px;
+  top: 0px;
   width: 347px;
 }
 
 .work .x1-rU6nWR {
   background-color: transparent;
-  height: 112px;
+  height: 105px;
   left: 81px;
   position: absolute;
-  top: 67px;
+  top: 74px;
   width: 457px;
 }
 
@@ -213,7 +213,7 @@
   height: 105px;
   left: 104px;
   position: absolute;
-  top: 7px;
+  top: 0px;
   width: 357px;
 }
 
@@ -250,7 +250,7 @@
   mix-blend-mode: normal;
   object-fit: cover;
   position: absolute;
-  top: 30px;
+  top: 23px;
   width: 67px;
 }
 
@@ -459,4 +459,481 @@
   position: absolute;
   top: 15px;
   width: 116px;
+}
+/* screen - work-1 */
+
+.work-1 {
+  background-color: var(--white);
+  height: 1731px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1680px;
+}
+
+.work-1 .image-5-X7GYZM {
+  background-color: transparent;
+  height: 1200px;
+  left: -3px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 1686px;
+}
+
+.work-1 .footer-X7GYZM {
+  background-color: var(--white);
+  height: 350px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1381px;
+  width: 1680px;
+}
+
+.work-1 .copyright-5oc2ku {
+  background-color: var(--white);
+  height: 59px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 293px;
+  width: 1688px;
+}
+
+.work-1 .copyright-bar-Vosp1R {
+  background-color: var(--telepossible-blue);
+  height: 59px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1688px;
+}
+
+.work-1 .text-Vosp1R {
+  background-color: transparent;
+  height: 20px;
+  left: 633px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 421px;
+}
+
+.work-1 .contents-5oc2ku {
+  background-color: transparent;
+  height: 234px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 1684px;
+}
+
+.work-1 .content-background-yFWe1C {
+  background-color: var(--white);
+  height: 234px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1684px;
+}
+
+.work-1 .x3-yFWe1C {
+  background-color: transparent;
+  height: 117px;
+  left: 1198px;
+  position: absolute;
+  top: 58px;
+  width: 446px;
+}
+
+.work-1 .law-ZJ5e3N {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  letter-spacing: -0.35px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 444px;
+}
+
+.work-1 .x2-yFWe1C {
+  background-color: transparent;
+  height: 109px;
+  left: 654px;
+  position: absolute;
+  top: 65px;
+  width: 363px;
+}
+
+.work-1 .sns-rAddhF {
+  background-color: transparent;
+  height: 109px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 365px;
+}
+
+.work-1 .icons-dHKkjI {
+  background-color: transparent;
+  height: 58px;
+  left: -0px;
+  position: absolute;
+  top: 50px;
+  width: 363px;
+}
+
+.work-1 .facebook-icon-BZ79SK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 304px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.work-1 .facebook-icon-BZ79SK:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .twitter-icon-BZ79SK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 152px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.work-1 .twitter-icon-BZ79SK:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .instagram-icon-BZ79SK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.work-1 .instagram-icon-BZ79SK:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .connect-with-us-dHKkjI {
+  background-color: transparent;
+  height: 25px;
+  left: 29px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 304px;
+}
+
+.work-1 .x1-yFWe1C {
+  background-color: transparent;
+  height: 92px;
+  left: 71px;
+  position: absolute;
+  top: 65px;
+  width: 401px;
+}
+
+.work-1 .contact-info-JIOjox {
+  background-color: transparent;
+  height: 92px;
+  left: 91px;
+  position: absolute;
+  top: 0px;
+  width: 314px;
+}
+
+.work-1 .e-mail-infotele-1-484-743-6940-CThVBY {
+  background-color: transparent;
+  height: 57px;
+  left: -0px;
+  letter-spacing: 1.76px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 310px;
+}
+
+.work-1 .contact-info-CThVBY {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.work-1 .logo-JIOjox {
+  background-color: transparent;
+  height: 64px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 59px;
+}
+
+.work-1 .upper-5oc2ku {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1688px;
+}
+
+.work-1 .line-1-sNhVcu {
+  background-color: transparent;
+  height: 2px;
+  left: 305px;
+  position: absolute;
+  top: 28px;
+  width: 1057px;
+}
+
+.work-1 .header-X7GYZM {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 0px;
+  width: 1687px;
+}
+
+.work-1 .header-icons-OgbVFy {
+  background-color: transparent;
+  height: 106px;
+  left: 492px;
+  position: absolute;
+  top: -16px;
+  width: 1165px;
+}
+
+.work-1 .icon-4-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 553px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-4-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .contact-xYFZjw {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 132px;
+}
+
+.work-1 .icon-3-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 369px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-3-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .works-rlIsN5 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 105px;
+}
+
+.work-1 .icon-2-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 184px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-2-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .about-Ewr3Hu {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 79px;
+}
+
+.work-1 .icon-1-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-1-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .home-mYa9I4 {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 79px;
+}
+
+.work-1 .donation-button-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 106px;
+  left: 1013px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 154px;
+}
+
+.work-1 .donation-button-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .rectangle-703-xzK3Qj {
+  background-color: var(--telepossible-red);
+  border-radius: 30.75px;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 152px;
+}
+
+.work-1 .donation-xzK3Qj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 105.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work-1 .logo-img-OgbVFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 102px;
+}
+@media screen and (max-width: 1919px) {
+  .screen.work { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.work-1 { 
+    display: none;
+   }
 }

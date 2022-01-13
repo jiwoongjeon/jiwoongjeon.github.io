@@ -2,6 +2,873 @@
 
 .contact {
   background-color: var(--white);
+  height: 1809px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1680px;
+}
+
+.contact .list-of-help-DhmS6L {
+  background-color: transparent;
+  height: 196px;
+  left: 327px;
+  position: absolute;
+  top: 1166px;
+  width: 1021px;
+}
+
+.contact .list-of-help-rX5pZN {
+  background-color: transparent;
+  height: 196px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1021px;
+}
+
+.contact .mail-khx65j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 196px;
+  left: 698px;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 327px;
+}
+
+.contact .mail-khx65j:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.contact .rectangle-713-ooy74m {
+  background-color: var(--white);
+  border-radius: 8.73px;
+  box-shadow: 0px 12.222972869873047px 17.46139144897461px #ded7d740;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.contact .mail-us-ooy74m {
+  background-color: transparent;
+  height: auto;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 93px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.contact .infotelepossiblecom-ooy74m {
+  background-color: transparent;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.contact .group-ooy74m {
+  background-color: transparent;
+  height: 35px;
+  left: 136px;
+  position: absolute;
+  top: 47px;
+  width: 52px;
+}
+
+.contact .address-khx65j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 196px;
+  left: 349px;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 327px;
+}
+
+.contact .address-khx65j:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.contact .rectangle-713-PnBg0m {
+  background-color: var(--white);
+  border-radius: 8.73px;
+  box-shadow: 0px 12.222972869873047px 17.46139144897461px #ded7d740;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.contact .location-1-PnBg0m {
+  background-color: transparent;
+  height: 50px;
+  left: 135px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 37px;
+  width: 50px;
+}
+
+.contact .x333-logan-ave-s-ollege-pa-16801-PnBg0m {
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.contact .address-PnBg0m {
+  background-color: transparent;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 93px;
+  width: 97px;
+}
+
+.contact .call-khx65j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 196px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 327px;
+}
+
+.contact .call-khx65j:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.contact .rectangle-713-kufxBP {
+  background-color: var(--white);
+  border-radius: 8.73px;
+  box-shadow: 0px 12.222972869873047px 17.46139144897461px #ded7d740;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.contact .call-us-kufxBP {
+  background-color: transparent;
+  height: auto;
+  left: 126px;
+  letter-spacing: 0.00px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 93px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.contact .x1-484-743-6940-kufxBP {
+  background-color: transparent;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.contact .call-svgrepo-com-2-kufxBP {
+  background-color: transparent;
+  height: 44px;
+  left: 128px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 53px;
+  width: 44px;
+}
+
+.contact .call-svgrepo-com-1-kufxBP {
+  background-color: transparent;
+  height: 59px;
+  left: 138px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 35px;
+  width: 59px;
+}
+
+.contact .map-DhmS6L {
+  background-color: transparent;
+  height: 513px;
+  left: -0px;
+  position: absolute;
+  top: 526px;
+  width: 1677px;
+}
+
+.contact .banner-DhmS6L {
+  background-color: transparent;
+  height: 540px;
+  left: -147px;
+  position: absolute;
+  top: 0px;
+  width: 1826px;
+}
+
+.contact .bg-image-NQECgX {
+  background-color: transparent;
+  height: 527px;
+  left: 144px;
+  position: absolute;
+  top: 0px;
+  width: 1682px;
+}
+
+.contact .rectangle-1-aHj9dL {
+  background-color: #f8f8f8;
+  height: 527px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 1682px;
+}
+
+.contact .effect-shape-NQECgX {
+  background-color: transparent;
+  height: 437px;
+  left: 0px;
+  position: absolute;
+  top: 102px;
+  width: 1819px;
+}
+
+.contact .polygon-5-76h8iw {
+  background-color: transparent;
+  height: 208px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 182px;
+  width: 240px;
+}
+
+.contact .polygon-9-76h8iw {
+  background-color: transparent;
+  height: 208px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 100px;
+  width: 240px;
+}
+
+.contact .polygon-6-76h8iw {
+  background-color: transparent;
+  height: 195px;
+  left: 1601px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 104px;
+  width: 182px;
+}
+
+.contact .polygon-7-76h8iw {
+  background-color: transparent;
+  height: 195px;
+  left: 1574px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 155px;
+  width: 182px;
+}
+
+.contact .polygon-8-76h8iw {
+  background-color: transparent;
+  height: 195px;
+  left: 1545px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 213px;
+  width: 182px;
+}
+
+.contact .ellipse-5-76h8iw {
+  background-color: transparent;
+  height: 28px;
+  left: 1710px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 136px;
+  width: 28px;
+}
+
+.contact .ellipse-4-76h8iw {
+  background-color: transparent;
+  height: 149px;
+  left: 174px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 93px;
+  width: 150px;
+}
+
+.contact .ellipse-6-76h8iw {
+  background-color: transparent;
+  height: 63px;
+  left: 267px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 72px;
+  width: 63px;
+}
+
+.contact .text-NQECgX {
+  background-color: transparent;
+  height: 148px;
+  left: 542px;
+  position: absolute;
+  top: 228px;
+  width: 888px;
+}
+
+.contact .underline-lku7I7 {
+  background-color: transparent;
+  height: 28px;
+  left: 274px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 92px;
+  width: 379px;
+}
+
+.contact .we-are-looking-earing-from-you-lku7I7 {
+  background-color: transparent;
+  color: #494949;
+  font-family: var(--font-family-zen_kaku_gothic_antique);
+  font-size: 13.1px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 289px;
+  letter-spacing: 1.31px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 129px;
+  width: 306px;
+}
+
+.contact .contact-lku7I7 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_serif);
+  font-size: 104.8px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 109.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 884px;
+}
+
+.contact .header-DhmS6L {
+  background-color: var(--white);
+  height: 74px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1676px;
+}
+
+.contact .header-icons-NlxXXS {
+  background-color: transparent;
+  height: 105px;
+  left: 489px;
+  position: absolute;
+  top: -16px;
+  width: 1158px;
+}
+
+.contact .icon-4-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 550px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 150px;
+}
+
+.contact .icon-4-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .contact-lpXNHL {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 131px;
+}
+
+.contact .icon-3-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 367px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 150px;
+}
+
+.contact .icon-3-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .works-XCxhV8 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 105px;
+}
+
+.contact .icon-2-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 183px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 150px;
+}
+
+.contact .icon-2-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .about-KH2Zo4 {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 79px;
+}
+
+.contact .icon-1-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: -0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 150px;
+}
+
+.contact .icon-1-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .home-wxE1tu {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 79px;
+}
+
+.contact .donation-button-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 105px;
+  left: 1007px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 153px;
+}
+
+.contact .donation-button-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .rectangle-703-pnc4Gu {
+  background-color: var(--telepossible-red);
+  border-radius: 30.56px;
+  height: 48px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 151px;
+}
+
+.contact .donation-pnc4Gu {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 104.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact .logo-img-NlxXXS {
+  background-color: transparent;
+  height: 48px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 102px;
+}
+
+.contact .footer-DhmS6L {
+  background-color: var(--white);
+  height: 350px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1459px;
+  width: 1680px;
+}
+
+.contact .copyright-mwR7bx {
+  background-color: var(--white);
+  height: 59px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 293px;
+  width: 1688px;
+}
+
+.contact .copyright-bar-XFhZEM {
+  background-color: var(--telepossible-blue);
+  height: 59px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1688px;
+}
+
+.contact .text-XFhZEM {
+  background-color: transparent;
+  height: 20px;
+  left: 633px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 421px;
+}
+
+.contact .contents-mwR7bx {
+  background-color: transparent;
+  height: 234px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 1684px;
+}
+
+.contact .content-background-lcqfWr {
+  background-color: var(--white);
+  height: 234px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1684px;
+}
+
+.contact .x3-lcqfWr {
+  background-color: transparent;
+  height: 117px;
+  left: 1198px;
+  position: absolute;
+  top: 58px;
+  width: 446px;
+}
+
+.contact .law-ThqXDw {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  letter-spacing: -0.35px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 444px;
+}
+
+.contact .x2-lcqfWr {
+  background-color: transparent;
+  height: 109px;
+  left: 654px;
+  position: absolute;
+  top: 65px;
+  width: 363px;
+}
+
+.contact .sns-mluLoV {
+  background-color: transparent;
+  height: 109px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 365px;
+}
+
+.contact .icons-kLqg7x {
+  background-color: transparent;
+  height: 58px;
+  left: -0px;
+  position: absolute;
+  top: 50px;
+  width: 363px;
+}
+
+.contact .facebook-icon-scVQv2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 304px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.contact .facebook-icon-scVQv2:hover {
+  transform: scale(1.1);
+}
+
+.contact .twitter-icon-scVQv2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 152px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.contact .twitter-icon-scVQv2:hover {
+  transform: scale(1.1);
+}
+
+.contact .instagram-icon-scVQv2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.contact .instagram-icon-scVQv2:hover {
+  transform: scale(1.1);
+}
+
+.contact .connect-with-us-kLqg7x {
+  background-color: transparent;
+  height: 25px;
+  left: 29px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 304px;
+}
+
+.contact .x1-lcqfWr {
+  background-color: transparent;
+  height: 92px;
+  left: 71px;
+  position: absolute;
+  top: 65px;
+  width: 401px;
+}
+
+.contact .contact-info-ZZFGNj {
+  background-color: transparent;
+  height: 92px;
+  left: 91px;
+  position: absolute;
+  top: 0px;
+  width: 314px;
+}
+
+.contact .e-mail-infotele-1-484-743-6940-jgCLn7 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  letter-spacing: 1.76px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 310px;
+}
+
+.contact .contact-info-jgCLn7 {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.contact .logo-ZZFGNj {
+  background-color: transparent;
+  height: 64px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 59px;
+}
+
+.contact .upper-mwR7bx {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1688px;
+}
+
+.contact .line-1-DiXIxc {
+  background-color: transparent;
+  height: 2px;
+  left: 306px;
+  position: absolute;
+  top: 28px;
+  width: 1056px;
+}
+/* screen - contact-1 */
+
+.contact-1 {
+  background-color: var(--white);
   height: 2072px;
   mix-blend-mode: normal;
   overflow: hidden;
@@ -10,7 +877,7 @@
   width: 1920px;
 }
 
-.contact .footer-DhmS6L {
+.contact-1 .footer-k2iDzY {
   background-color: var(--white);
   height: 400px;
   left: 0px;
@@ -20,7 +887,7 @@
   width: 1920px;
 }
 
-.contact .copyright-mwR7bx {
+.contact-1 .copyright-3j10ab {
   background-color: var(--white);
   height: 67px;
   left: -0px;
@@ -30,7 +897,7 @@
   width: 1925px;
 }
 
-.contact .copyright-bar-XFhZEM {
+.contact-1 .copyright-bar-hZvx1g {
   background-color: var(--telepossible-blue);
   height: 67px;
   left: 0px;
@@ -40,7 +907,7 @@
   width: 1925px;
 }
 
-.contact .text-XFhZEM {
+.contact-1 .text-hZvx1g {
   background-color: transparent;
   height: 23px;
   left: 722px;
@@ -53,7 +920,7 @@
   width: 480px;
 }
 
-.contact .contents-mwR7bx {
+.contact-1 .contents-3j10ab {
   background-color: transparent;
   height: 267px;
   left: 0px;
@@ -62,7 +929,7 @@
   width: 1920px;
 }
 
-.contact .content-background-lcqfWr {
+.contact-1 .content-background-NIA45I {
   background-color: var(--white);
   height: 267px;
   left: 0px;
@@ -72,7 +939,7 @@
   width: 1920px;
 }
 
-.contact .x3-lcqfWr {
+.contact-1 .x3-NIA45I {
   background-color: transparent;
   height: 133px;
   left: 1366px;
@@ -81,7 +948,7 @@
   width: 509px;
 }
 
-.contact .law-ThqXDw {
+.contact-1 .law-1cqjKx {
   background-color: transparent;
   height: 133px;
   left: 0px;
@@ -94,34 +961,34 @@
   width: 507px;
 }
 
-.contact .x2-lcqfWr {
+.contact-1 .x2-NIA45I {
   background-color: transparent;
-  height: 132px;
+  height: 124px;
   left: 746px;
   position: absolute;
-  top: 67px;
+  top: 75px;
   width: 413px;
 }
 
-.contact .sns-mluLoV {
+.contact-1 .sns-ZSBbM4 {
   background-color: transparent;
   height: 124px;
-  left: -0px;
+  left: 0px;
   position: relative;
-  top: 8px;
+  top: 0px;
   width: 415px;
 }
 
-.contact .icons-kLqg7x {
+.contact-1 .icons-b4g61u {
   background-color: transparent;
   height: 67px;
-  left: -0px;
+  left: 0px;
   position: absolute;
   top: 57px;
   width: 413px;
 }
 
-.contact .facebook-icon-scVQv2 {
+.contact-1 .facebook-icon-4IghMC {
   background-color: transparent;
   cursor: pointer;
   height: 67px;
@@ -135,11 +1002,11 @@
   width: 67px;
 }
 
-.contact .facebook-icon-scVQv2:hover {
+.contact-1 .facebook-icon-4IghMC:hover {
   transform: scale(1.1);
 }
 
-.contact .twitter-icon-scVQv2 {
+.contact-1 .twitter-icon-4IghMC {
   background-color: transparent;
   cursor: pointer;
   height: 67px;
@@ -153,11 +1020,11 @@
   width: 67px;
 }
 
-.contact .twitter-icon-scVQv2:hover {
+.contact-1 .twitter-icon-4IghMC:hover {
   transform: scale(1.1);
 }
 
-.contact .instagram-icon-scVQv2 {
+.contact-1 .instagram-icon-4IghMC {
   background-color: transparent;
   cursor: pointer;
   height: 67px;
@@ -171,11 +1038,11 @@
   width: 67px;
 }
 
-.contact .instagram-icon-scVQv2:hover {
+.contact-1 .instagram-icon-4IghMC:hover {
   transform: scale(1.1);
 }
 
-.contact .connect-with-us-kLqg7x {
+.contact-1 .connect-with-us-b4g61u {
   background-color: transparent;
   height: 28px;
   left: 33px;
@@ -184,29 +1051,29 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: center;
-  top: -0px;
+  top: 0px;
   width: 347px;
 }
 
-.contact .x1-lcqfWr {
+.contact-1 .x1-NIA45I {
   background-color: transparent;
-  height: 112px;
+  height: 105px;
   left: 81px;
   position: absolute;
-  top: 67px;
+  top: 74px;
   width: 457px;
 }
 
-.contact .contact-info-ZZFGNj {
+.contact-1 .contact-info-CuRexs {
   background-color: transparent;
   height: 105px;
   left: 104px;
   position: absolute;
-  top: 7px;
+  top: 0px;
   width: 357px;
 }
 
-.contact .e-mail-infotele-1-484-743-6940-jgCLn7 {
+.contact-1 .e-mail-infotele-1-484-743-6940-qIX6xS {
   background-color: transparent;
   height: 65px;
   left: 0px;
@@ -219,7 +1086,7 @@
   width: 353px;
 }
 
-.contact .contact-info-jgCLn7 {
+.contact-1 .contact-info-qIX6xS {
   background-color: transparent;
   height: 28px;
   left: 0px;
@@ -232,18 +1099,18 @@
   width: auto;
 }
 
-.contact .logo-ZZFGNj {
+.contact-1 .logo-CuRexs {
   background-color: transparent;
   height: 74px;
   left: -0px;
   mix-blend-mode: normal;
   object-fit: cover;
   position: absolute;
-  top: 30px;
+  top: 23px;
   width: 67px;
 }
 
-.contact .upper-mwR7bx {
+.contact-1 .upper-3j10ab {
   background-color: transparent;
   height: 67px;
   left: 0px;
@@ -253,7 +1120,7 @@
   width: 1925px;
 }
 
-.contact .line-1-DiXIxc {
+.contact-1 .line-1-pf2sqG {
   background-color: transparent;
   height: 2px;
   left: 348px;
@@ -262,7 +1129,7 @@
   width: 1204px;
 }
 
-.contact .list-of-help-DhmS6L {
+.contact-1 .list-of-help-k2iDzY {
   background-color: transparent;
   height: 224px;
   left: 375px;
@@ -271,7 +1138,7 @@
   width: 1170px;
 }
 
-.contact .list-of-help-rX5pZN {
+.contact-1 .list-of-help-jaI7eQ {
   background-color: transparent;
   height: 224px;
   left: 0px;
@@ -280,7 +1147,7 @@
   width: 1170px;
 }
 
-.contact .mail-khx65j {
+.contact-1 .mail-90SYHi {
   background-color: transparent;
   cursor: pointer;
   height: 224px;
@@ -292,12 +1159,12 @@
   width: 374px;
 }
 
-.contact .mail-khx65j:hover {
+.contact-1 .mail-90SYHi:hover {
   transform: translate(0, -5px);
 box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
 }
 
-.contact .rectangle-713-ooy74m {
+.contact-1 .rectangle-713-XxtVWi {
   background-color: var(--white);
   border-radius: 10px;
   box-shadow: 0px 14px 20px #ded7d740;
@@ -309,7 +1176,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 370px;
 }
 
-.contact .mail-us-ooy74m {
+.contact-1 .mail-us-XxtVWi {
   background-color: transparent;
   height: auto;
   left: 141px;
@@ -323,7 +1190,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: auto;
 }
 
-.contact .infotelepossiblecom-ooy74m {
+.contact-1 .infotelepossiblecom-XxtVWi {
   background-color: transparent;
   height: auto;
   left: 119px;
@@ -338,7 +1205,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: auto;
 }
 
-.contact .group-ooy74m {
+.contact-1 .group-XxtVWi {
   background-color: transparent;
   height: 39px;
   left: 153px;
@@ -347,7 +1214,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 59px;
 }
 
-.contact .address-khx65j {
+.contact-1 .address-90SYHi {
   background-color: transparent;
   cursor: pointer;
   height: 224px;
@@ -359,12 +1226,12 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 374px;
 }
 
-.contact .address-khx65j:hover {
+.contact-1 .address-90SYHi:hover {
   transform: translate(0, -5px);
 box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
 }
 
-.contact .rectangle-713-PnBg0m {
+.contact-1 .rectangle-713-6xACVC {
   background-color: var(--white);
   border-radius: 10px;
   box-shadow: 0px 14px 20px #ded7d740;
@@ -376,7 +1243,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 370px;
 }
 
-.contact .location-1-PnBg0m {
+.contact-1 .location-1-6xACVC {
   background-color: transparent;
   height: 57px;
   left: 153px;
@@ -386,7 +1253,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 57px;
 }
 
-.contact .x333-logan-ave-s-ollege-pa-16801-PnBg0m {
+.contact-1 .x333-logan-ave-s-ollege-pa-16801-6xACVC {
   background-color: transparent;
   height: auto;
   left: 70px;
@@ -401,7 +1268,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: auto;
 }
 
-.contact .address-PnBg0m {
+.contact-1 .address-6xACVC {
   background-color: transparent;
   height: auto;
   left: 130px;
@@ -414,7 +1281,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: auto;
 }
 
-.contact .call-khx65j {
+.contact-1 .call-90SYHi {
   background-color: transparent;
   cursor: pointer;
   height: 224px;
@@ -426,12 +1293,12 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 374px;
 }
 
-.contact .call-khx65j:hover {
+.contact-1 .call-90SYHi:hover {
   transform: translate(0, -5px);
 box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
 }
 
-.contact .rectangle-713-kufxBP {
+.contact-1 .rectangle-713-v7x7x0 {
   background-color: var(--white);
   border-radius: 10px;
   box-shadow: 0px 14px 20px #ded7d740;
@@ -443,7 +1310,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 370px;
 }
 
-.contact .call-us-kufxBP {
+.contact-1 .call-us-v7x7x0 {
   background-color: transparent;
   height: auto;
   left: 144px;
@@ -457,7 +1324,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: auto;
 }
 
-.contact .x1-484-743-6940-kufxBP {
+.contact-1 .x1-484-743-6940-v7x7x0 {
   background-color: transparent;
   height: auto;
   left: 121px;
@@ -472,7 +1339,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: auto;
 }
 
-.contact .call-svgrepo-com-2-kufxBP {
+.contact-1 .call-svgrepo-com-2-v7x7x0 {
   background-color: transparent;
   height: 49px;
   left: 147px;
@@ -482,7 +1349,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 49px;
 }
 
-.contact .call-svgrepo-com-1-kufxBP {
+.contact-1 .call-svgrepo-com-1-v7x7x0 {
   background-color: transparent;
   height: 67px;
   left: 158px;
@@ -492,7 +1359,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 67px;
 }
 
-.contact .map-DhmS6L {
+.contact-1 .map-k2iDzY {
   background-color: transparent;
   height: 586px;
   left: 0px;
@@ -501,7 +1368,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 1920px;
 }
 
-.contact .banner-DhmS6L {
+.contact-1 .banner-k2iDzY {
   background-color: transparent;
   height: 618px;
   left: -168px;
@@ -510,7 +1377,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 2091px;
 }
 
-.contact .bg-image-NQECgX {
+.contact-1 .bg-image-5WbHgW {
   background-color: transparent;
   height: 604px;
   left: 165px;
@@ -519,7 +1386,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 1926px;
 }
 
-.contact .rectangle-1-aHj9dL {
+.contact-1 .rectangle-1-1gVlvP {
   background-color: #f8f8f8;
   height: 604px;
   left: 0px;
@@ -529,7 +1396,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 1926px;
 }
 
-.contact .effect-shape-NQECgX {
+.contact-1 .effect-shape-5WbHgW {
   background-color: transparent;
   height: 501px;
   left: 0px;
@@ -538,7 +1405,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 2084px;
 }
 
-.contact .polygon-5-76h8iw {
+.contact-1 .polygon-5-LO11k7 {
   background-color: transparent;
   height: 237px;
   left: 34px;
@@ -548,7 +1415,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 274px;
 }
 
-.contact .polygon-9-76h8iw {
+.contact-1 .polygon-9-LO11k7 {
   background-color: transparent;
   height: 237px;
   left: 21px;
@@ -558,7 +1425,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 274px;
 }
 
-.contact .polygon-6-76h8iw {
+.contact-1 .polygon-6-LO11k7 {
   background-color: transparent;
   height: 224px;
   left: 1834px;
@@ -568,7 +1435,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 208px;
 }
 
-.contact .polygon-7-76h8iw {
+.contact-1 .polygon-7-LO11k7 {
   background-color: transparent;
   height: 223px;
   left: 1803px;
@@ -578,7 +1445,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 208px;
 }
 
-.contact .polygon-8-76h8iw {
+.contact-1 .polygon-8-LO11k7 {
   background-color: transparent;
   height: 224px;
   left: 1769px;
@@ -588,7 +1455,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 208px;
 }
 
-.contact .ellipse-5-76h8iw {
+.contact-1 .ellipse-5-LO11k7 {
   background-color: transparent;
   height: 31px;
   left: 1959px;
@@ -598,7 +1465,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 31px;
 }
 
-.contact .ellipse-4-76h8iw {
+.contact-1 .ellipse-4-LO11k7 {
   background-color: transparent;
   height: 170px;
   left: 200px;
@@ -608,7 +1475,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 170px;
 }
 
-.contact .ellipse-6-76h8iw {
+.contact-1 .ellipse-6-LO11k7 {
   background-color: transparent;
   height: 72px;
   left: 306px;
@@ -618,7 +1485,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 71px;
 }
 
-.contact .text-NQECgX {
+.contact-1 .text-5WbHgW {
   background-color: transparent;
   height: 170px;
   left: 621px;
@@ -627,7 +1494,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 1017px;
 }
 
-.contact .underline-lku7I7 {
+.contact-1 .underline-leDPBJ {
   background-color: transparent;
   height: 32px;
   left: 312px;
@@ -637,7 +1504,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 433px;
 }
 
-.contact .we-are-looking-earing-from-you-lku7I7 {
+.contact-1 .we-are-looking-earing-from-you-leDPBJ {
   background-color: transparent;
   color: #494949;
   font-family: var(--font-family-zen_kaku_gothic_antique);
@@ -655,7 +1522,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 350px;
 }
 
-.contact .contact-lku7I7 {
+.contact-1 .contact-leDPBJ {
   background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-noto_serif);
@@ -674,7 +1541,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 1013px;
 }
 
-.contact .header-DhmS6L {
+.contact-1 .header-k2iDzY {
   background-color: var(--white);
   height: 85px;
   left: 0px;
@@ -684,7 +1551,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 1920px;
 }
 
-.contact .header-icons-NlxXXS {
+.contact-1 .header-icons-QHRj2K {
   background-color: transparent;
   height: 120px;
   left: 560px;
@@ -693,7 +1560,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 1326px;
 }
 
-.contact .icon-4-7pDmUn {
+.contact-1 .icon-4-msDIWv {
   background-color: transparent;
   cursor: pointer;
   height: 55px;
@@ -705,11 +1572,11 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 172px;
 }
 
-.contact .icon-4-7pDmUn:hover {
+.contact-1 .icon-4-msDIWv:hover {
   transform: scale(1.1);
 }
 
-.contact .contact-lpXNHL {
+.contact-1 .contact-EBxX1R {
   background-color: transparent;
   height: auto;
   left: 10px;
@@ -722,7 +1589,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 150px;
 }
 
-.contact .icon-3-7pDmUn {
+.contact-1 .icon-3-msDIWv {
   background-color: transparent;
   cursor: pointer;
   height: 55px;
@@ -734,11 +1601,11 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 172px;
 }
 
-.contact .icon-3-7pDmUn:hover {
+.contact-1 .icon-3-msDIWv:hover {
   transform: scale(1.1);
 }
 
-.contact .works-XCxhV8 {
+.contact-1 .works-YLJFxN {
   background-color: transparent;
   height: auto;
   left: 25px;
@@ -751,7 +1618,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 120px;
 }
 
-.contact .icon-2-7pDmUn {
+.contact-1 .icon-2-msDIWv {
   background-color: transparent;
   cursor: pointer;
   height: 55px;
@@ -763,11 +1630,11 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 172px;
 }
 
-.contact .icon-2-7pDmUn:hover {
+.contact-1 .icon-2-msDIWv:hover {
   transform: scale(1.1);
 }
 
-.contact .about-KH2Zo4 {
+.contact-1 .about-xyH9uN {
   background-color: transparent;
   height: auto;
   left: 40px;
@@ -780,7 +1647,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 90px;
 }
 
-.contact .icon-1-7pDmUn {
+.contact-1 .icon-1-msDIWv {
   background-color: transparent;
   cursor: pointer;
   height: 55px;
@@ -792,11 +1659,11 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 172px;
 }
 
-.contact .icon-1-7pDmUn:hover {
+.contact-1 .icon-1-msDIWv:hover {
   transform: scale(1.1);
 }
 
-.contact .home-wxE1tu {
+.contact-1 .home-Zlrq72 {
   background-color: transparent;
   height: auto;
   left: 40px;
@@ -809,7 +1676,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 90px;
 }
 
-.contact .donation-button-7pDmUn {
+.contact-1 .donation-button-msDIWv {
   background-color: transparent;
   cursor: pointer;
   height: 120px;
@@ -821,11 +1688,11 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 175px;
 }
 
-.contact .donation-button-7pDmUn:hover {
+.contact-1 .donation-button-msDIWv:hover {
   transform: scale(1.1);
 }
 
-.contact .rectangle-703-pnc4Gu {
+.contact-1 .rectangle-703-cIqqPg {
   background-color: var(--telepossible-red);
   border-radius: 35px;
   height: 55px;
@@ -836,7 +1703,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: 173px;
 }
 
-.contact .donation-pnc4Gu {
+.contact-1 .donation-cIqqPg {
   background-color: transparent;
   height: auto;
   left: 53px;
@@ -850,7 +1717,7 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   width: auto;
 }
 
-.contact .logo-img-NlxXXS {
+.contact-1 .logo-img-QHRj2K {
   background-color: transparent;
   cursor: pointer;
   height: 55px;
@@ -860,4 +1727,14 @@ box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
   position: absolute;
   top: 15px;
   width: 116px;
+}
+@media screen and (max-width: 1919px) {
+  .screen.contact-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.contact { 
+    display: none;
+   }
 }

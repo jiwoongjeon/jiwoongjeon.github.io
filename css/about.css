@@ -1,0 +1,1907 @@
+/* screen - about */
+
+.about {
+  background-color: var(--white);
+  height: 6779px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.about .footer-vRTBB9 {
+  background-color: var(--white);
+  height: 400px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6379px;
+  width: 1920px;
+}
+
+.about .copyright-1ETIZM {
+  background-color: var(--white);
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 334px;
+  width: 1925px;
+}
+
+.about .copyright-bar-UfBZfy {
+  background-color: var(--telepossible-blue);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.about .text-UfBZfy {
+  background-color: transparent;
+  height: 23px;
+  left: 722px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 480px;
+}
+
+.about .contents-1ETIZM {
+  background-color: transparent;
+  height: 267px;
+  left: 0px;
+  position: absolute;
+  top: 40px;
+  width: 1920px;
+}
+
+.about .content-background-6FhQIx {
+  background-color: var(--white);
+  height: 267px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.about .x3-6FhQIx {
+  background-color: transparent;
+  height: 133px;
+  left: 1366px;
+  position: absolute;
+  top: 67px;
+  width: 509px;
+}
+
+.about .law-c34pZn {
+  background-color: transparent;
+  height: 133px;
+  left: 0px;
+  letter-spacing: -0.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 507px;
+}
+
+.about .x2-6FhQIx {
+  background-color: transparent;
+  height: 132px;
+  left: 746px;
+  position: absolute;
+  top: 67px;
+  width: 413px;
+}
+
+.about .sns-OlyAdw {
+  background-color: transparent;
+  height: 124px;
+  left: -0px;
+  position: relative;
+  top: 8px;
+  width: 415px;
+}
+
+.about .icons-FahbC7 {
+  background-color: transparent;
+  height: 67px;
+  left: -0px;
+  position: absolute;
+  top: 57px;
+  width: 413px;
+}
+
+.about .facebook-icon-7RL1ZH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 347px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.about .facebook-icon-7RL1ZH:hover {
+  transform: scale(1.1);
+}
+
+.about .twitter-icon-7RL1ZH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 173px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.about .twitter-icon-7RL1ZH:hover {
+  transform: scale(1.1);
+}
+
+.about .instagram-icon-7RL1ZH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.about .instagram-icon-7RL1ZH:hover {
+  transform: scale(1.1);
+}
+
+.about .connect-with-us-FahbC7 {
+  background-color: transparent;
+  height: 28px;
+  left: 33px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 347px;
+}
+
+.about .x1-6FhQIx {
+  background-color: transparent;
+  height: 112px;
+  left: 81px;
+  position: absolute;
+  top: 67px;
+  width: 457px;
+}
+
+.about .contact-info-euFDDO {
+  background-color: transparent;
+  height: 105px;
+  left: 104px;
+  position: absolute;
+  top: 7px;
+  width: 357px;
+}
+
+.about .e-mail-infotele-1-484-743-6940-4s4rmB {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 353px;
+}
+
+.about .contact-info-4s4rmB {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about .logo-euFDDO {
+  background-color: transparent;
+  height: 74px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 67px;
+}
+
+.about .upper-1ETIZM {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.about .line-1-f6jIfa {
+  background-color: transparent;
+  height: 2px;
+  left: 348px;
+  position: absolute;
+  top: 32px;
+  width: 1204px;
+}
+
+.about .team-vRTBB9 {
+  background-color: transparent;
+  height: 1071px;
+  left: -314px;
+  position: absolute;
+  top: 5227px;
+  width: 2547px;
+}
+
+.about .bg-RIxcy6 {
+  background-color: transparent;
+  height: 1071px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 2548px;
+}
+
+.about .list-1-RIxcy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 591px;
+  left: 679px;
+  pointer-events: auto;
+  position: absolute;
+  top: 330px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.about .list-1-RIxcy6:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.about .image-I1Kc3r {
+  background-color: transparent;
+  height: 390px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.about .hover-I1Kc3r {
+  background-color: transparent;
+  height: 201px;
+  left: 0px;
+  position: absolute;
+  top: 390px;
+  width: 374px;
+}
+
+.about .group-iRcTUq {
+  background-color: transparent;
+  height: 261px;
+  left: -25px;
+  position: absolute;
+  top: 0px;
+  width: 420px;
+}
+
+.about .family-medicine-iRcTUq {
+  background-color: transparent;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 69px;
+  width: auto;
+}
+
+.about .young-sil-kim-iRcTUq {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 314px;
+}
+
+.about .social-I1Kc3r {
+  background-color: transparent;
+  height: 39px;
+  left: 96px;
+  position: absolute;
+  top: 525px;
+  width: 178px;
+}
+
+.about .line-I1Kc3r {
+  background-color: transparent;
+  height: 0px;
+  left: 26px;
+  position: absolute;
+  top: 503px;
+  width: 302px;
+}
+
+.about .line-7-dWhLrI {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 302px;
+}
+
+.about .list-2-RIxcy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 591px;
+  left: 1089px;
+  pointer-events: auto;
+  position: absolute;
+  top: 330px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.about .list-2-RIxcy6:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.about .hover-HP6xdw {
+  background-color: transparent;
+  height: 201px;
+  left: 0px;
+  position: absolute;
+  top: 390px;
+  width: 374px;
+}
+
+.about .group-r1WLvS {
+  background-color: transparent;
+  height: 261px;
+  left: -26px;
+  position: absolute;
+  top: 0px;
+  width: 421px;
+}
+
+.about .kuy-chae-yim-r1WLvS {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 314px;
+}
+
+.about .ent-clinic-r1WLvS {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 69px;
+  width: auto;
+}
+
+.about .social-HP6xdw {
+  background-color: transparent;
+  height: 39px;
+  left: 96px;
+  position: absolute;
+  top: 525px;
+  width: 178px;
+}
+
+.about .line-HP6xdw {
+  background-color: transparent;
+  height: 0px;
+  left: 26px;
+  position: absolute;
+  top: 503px;
+  width: 302px;
+}
+
+.about .line-7-AiJTeT {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 303px;
+}
+
+.about .screen-shot-202-11-15-at-636-1-HP6xdw {
+  background-color: transparent;
+  height: 390px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.about .list-3-RIxcy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 591px;
+  left: 1489px;
+  pointer-events: auto;
+  position: absolute;
+  top: 330px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.about .list-3-RIxcy6:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.about .image-N2v6dk {
+  background-color: transparent;
+  height: 390px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 371px;
+}
+
+.about .hover-N2v6dk {
+  background-color: transparent;
+  height: 201px;
+  left: 0px;
+  position: absolute;
+  top: 390px;
+  width: 374px;
+}
+
+.about .group-HUdTPf {
+  background-color: transparent;
+  height: 261px;
+  left: -26px;
+  position: absolute;
+  top: 0px;
+  width: 421px;
+}
+
+.about .to-be-updated-HUdTPf {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 314px;
+}
+
+.about .tbd-HUdTPf {
+  background-color: transparent;
+  height: auto;
+  left: 173px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 69px;
+  width: auto;
+}
+
+.about .social-N2v6dk {
+  background-color: transparent;
+  height: 39px;
+  left: 103px;
+  position: absolute;
+  top: 525px;
+  width: 179px;
+}
+
+.about .line-N2v6dk {
+  background-color: transparent;
+  height: 0px;
+  left: 26px;
+  position: absolute;
+  top: 503px;
+  width: 302px;
+}
+
+.about .line-7-yJhgxt {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 303px;
+}
+
+.about .titles-RIxcy6 {
+  background-color: transparent;
+  height: 108px;
+  left: 916px;
+  position: absolute;
+  top: 106px;
+  width: 720px;
+}
+
+.about .contributors-4rA3Z9 {
+  background-color: transparent;
+  color: #e89b75;
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  letter-spacing: 9.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.about .doctors-with-tele-possible-4rA3Z9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.about .three-obligations-vRTBB9 {
+  background-color: transparent;
+  height: 1041px;
+  left: -398px;
+  position: absolute;
+  top: 4006px;
+  width: 2715px;
+}
+
+.about .bg-wIV5mH {
+  background-color: transparent;
+  height: 1042px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 2716px;
+}
+
+.about .bg-effect-wIV5mH {
+  background-color: transparent;
+  height: 737px;
+  left: 547px;
+  position: absolute;
+  top: 207px;
+  width: 1626px;
+}
+
+.about .blocks-wIV5mH {
+  background-color: transparent;
+  height: 420px;
+  left: 647px;
+  position: absolute;
+  top: 406px;
+  width: 1422px;
+}
+
+.about .block-3-WLkqql {
+  background-color: transparent;
+  cursor: pointer;
+  height: 420px;
+  left: 526px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.about .block-3-WLkqql:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.about .bg-YY0zzV {
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.about .content-YY0zzV {
+  background-color: transparent;
+  height: 297px;
+  left: 23px;
+  position: absolute;
+  top: 46px;
+  width: 329px;
+}
+
+.about .text-31ohKu {
+  background-color: transparent;
+  height: 74px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 321px;
+}
+
+.about .title-31ohKu {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 2.30px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 250px;
+}
+
+.about .image-31ohKu {
+  background-color: transparent;
+  height: 81px;
+  left: 122px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.about .ellipse-648-nAXALN {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.about .global-nAXALN {
+  background-color: transparent;
+  height: 70px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 70px;
+}
+
+.about .block-2-WLkqql {
+  background-color: transparent;
+  cursor: pointer;
+  height: 420px;
+  left: 1052px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.about .block-2-WLkqql:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.about .bg-V1XYmx {
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.about .content-V1XYmx {
+  background-color: transparent;
+  height: 247px;
+  left: 22px;
+  position: absolute;
+  top: 56px;
+  width: 329px;
+}
+
+.about .text-nMNUUy {
+  background-color: transparent;
+  height: 47px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 194px;
+  width: 321px;
+}
+
+.about .title-nMNUUy {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 2.30px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 250px;
+}
+
+.about .image-nMNUUy {
+  background-color: transparent;
+  height: 81px;
+  left: 122px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.about .ellipse-648-B5ISf3 {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.about .moral-icon-B5ISf3 {
+  background-color: transparent;
+  height: 70px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 70px;
+}
+
+.about .block-1-WLkqql {
+  background-color: transparent;
+  cursor: pointer;
+  height: 420px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.about .block-1-WLkqql:hover {
+  transform: scale(0.9); 
+}
+
+.about .bg-Ak3oe1 {
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.about .content-Ak3oe1 {
+  background-color: transparent;
+  height: 277px;
+  left: 22px;
+  position: absolute;
+  top: 56px;
+  width: 329px;
+}
+
+.about .text-TDMs7z {
+  background-color: transparent;
+  height: 74px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 195px;
+  width: 310px;
+}
+
+.about .title-TDMs7z {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 2.30px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 250px;
+}
+
+.about .image-TDMs7z {
+  background-color: transparent;
+  height: 81px;
+  left: 122px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.about .ellipse-648-6Q8FDm {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.about .social-icon-6Q8FDm {
+  background-color: transparent;
+  height: 70px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 70px;
+}
+
+.about .title-wIV5mH {
+  background-color: transparent;
+  display: block;
+  height: 121px;
+  left: 907px;
+  opacity: 0;
+  position: absolute;
+  top: 161px;
+  width: 905px;
+}
+
+.about .title-wIV5mH.animate-enter6 {
+  animation: animate-enter6-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.about .tele-possibles-ree-obligations-f71agm {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.about .span0-dMxK3p {
+}
+
+.about .span1-dMxK3p {
+}
+
+.about .span2-dMxK3p {
+}
+
+.about .obligations-f71agm {
+  background-color: transparent;
+  height: 30px;
+  left: 325px;
+  letter-spacing: 9.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 250px;
+}
+
+.about .testimonial-vRTBB9 {
+  background-color: transparent;
+  height: 1191px;
+  left: -288px;
+  position: absolute;
+  top: 2636px;
+  width: 2496px;
+}
+
+.about .bg-WmtOyd {
+  background-color: transparent;
+  height: 1191px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 2496px;
+}
+
+.about .quote-4-WmtOyd {
+  background-color: transparent;
+  height: 473px;
+  left: 1499px;
+  position: absolute;
+  top: 653px;
+  width: 372px;
+}
+
+.about .bg-xtwdhC {
+  background-color: transparent;
+  height: 473px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 371px;
+}
+
+.about .even-when-the-v-om-the-patients-xtwdhC {
+  background-color: transparent;
+  height: 223px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 122px;
+  width: 321px;
+}
+
+.about .quote-xtwdhC {
+  background-color: transparent;
+  height: 57px;
+  left: 156px;
+  position: absolute;
+  top: 38px;
+  width: 58px;
+}
+
+.about .quote-3-WmtOyd {
+  background-color: transparent;
+  height: 473px;
+  left: 1099px;
+  position: absolute;
+  top: 653px;
+  width: 372px;
+}
+
+.about .bg-lNwpmx {
+  background-color: transparent;
+  height: 473px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 371px;
+}
+
+.about .tele-p-provides-es-between-them-lNwpmx {
+  background-color: transparent;
+  height: 271px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 122px;
+  width: 321px;
+}
+
+.about .quote-lNwpmx {
+  background-color: transparent;
+  height: 57px;
+  left: 156px;
+  position: absolute;
+  top: 38px;
+  width: 58px;
+}
+
+.about .quote-2-WmtOyd {
+  background-color: transparent;
+  height: 473px;
+  left: 1499px;
+  position: absolute;
+  top: 140px;
+  width: 372px;
+}
+
+.about .bg-bVfhtx {
+  background-color: transparent;
+  height: 473px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 371px;
+}
+
+.about .based-on-the-ch-hey-are-on-hold-bVfhtx {
+  background-color: transparent;
+  height: 300px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 122px;
+  width: 313px;
+}
+
+.about .quote-bVfhtx {
+  background-color: transparent;
+  height: 57px;
+  left: 156px;
+  position: absolute;
+  top: 38px;
+  width: 58px;
+}
+
+.about .quote-1-WmtOyd {
+  background-color: transparent;
+  height: 473px;
+  left: 1099px;
+  position: absolute;
+  top: 140px;
+  width: 372px;
+}
+
+.about .bg-wafc9V {
+  background-color: transparent;
+  height: 473px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 371px;
+}
+
+.about .tele-p-immediat-symptoms-better-wafc9V {
+  background-color: transparent;
+  height: 209px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 168px;
+  width: 318px;
+}
+
+.about .quote-wafc9V {
+  background-color: transparent;
+  height: 57px;
+  left: 156px;
+  position: absolute;
+  top: 38px;
+  width: 58px;
+}
+
+.about .titles-WmtOyd {
+  background-color: transparent;
+  height: 170px;
+  left: 541px;
+  position: absolute;
+  top: 500px;
+  width: 467px;
+}
+
+.about .our-services-XTsCQ7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 95px;
+  width: auto;
+}
+
+.about .borderless-limi-ss-and-costless-XTsCQ7 {
+  background-color: transparent;
+  color: #fab586;
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 90px;
+  left: 0px;
+  letter-spacing: 9.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 463px;
+}
+
+.about .our-vision-vRTBB9 {
+  background-color: transparent;
+  height: 640px;
+  left: 363px;
+  position: absolute;
+  top: 1766px;
+  width: 1193px;
+}
+
+.about .dollar-collected-JxoGjn {
+  background-color: transparent;
+  height: 159px;
+  left: 7px;
+  position: absolute;
+  top: 292px;
+  width: 564px;
+}
+
+.about .rectangle-716-mxfgmA {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 170px;
+}
+
+.about .since-mxfgmA {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about .x2021-mxfgmA {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 28px;
+  left: 23px;
+  letter-spacing: 3.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 88px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.about .to-achieve-such-atients-in-need-mxfgmA {
+  background-color: transparent;
+  color: var(--jaguar);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 367px;
+}
+
+.about .our-vission-JxoGjn {
+  background-color: transparent;
+  height: 607px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 591px;
+}
+
+.about .tele-p-has-a-mi-people-in-need-hRcxMr {
+  background-color: transparent;
+  color: var(--jaguar);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 18px;
+  letter-spacing: -0.36px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: 484px;
+}
+
+.about .providing-consi-andingworldwide-hRcxMr {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 18px;
+  letter-spacing: -0.36px;
+  line-height: 30px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  width: 567px;
+}
+
+.about .span0-E3NJz9 {
+  font-style: normal;
+  letter-spacing: -0.06px;
+}
+
+.about .span1-E3NJz9 {
+  color: var(--telepossible-blue);
+  font-style: normal;
+  letter-spacing: -0.06px;
+}
+
+.about .span2-E3NJz9 {
+  font-style: normal;
+  letter-spacing: -0.06px;
+}
+
+.about .span3-E3NJz9 {
+  color: var(--telepossible-blue);
+  font-style: normal;
+  letter-spacing: -0.06px;
+}
+
+.about .span4-E3NJz9 {
+  font-style: normal;
+  letter-spacing: -0.06px;
+}
+
+.about .our-vision-hRcxMr {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about .line-5-hRcxMr {
+  background-color: transparent;
+  height: 291px;
+  left: -0px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.about .about-us-JxoGjn {
+  background-color: transparent;
+  height: 640px;
+  left: 685px;
+  position: absolute;
+  top: 0px;
+  width: 508px;
+}
+
+.about .image-nX6oz2 {
+  background-color: transparent;
+  height: 348px;
+  left: 0px;
+  position: absolute;
+  top: 292px;
+  width: 506px;
+}
+
+.about .text-nX6oz2 {
+  background-color: transparent;
+  height: 266px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 514px;
+}
+
+.about .help-is-our-main-goal-eggREF {
+  background-color: transparent;
+  color: var(--telepossible-red);
+  font-family: var(--font-family-noto_serif);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 95px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about .tele-p-is-a-non-service-for-all-eggREF {
+  background-color: transparent;
+  color: var(--jaguar);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 120px;
+  left: 24px;
+  letter-spacing: -0.36px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 146px;
+  width: 484px;
+}
+
+.about .line-6-eggREF {
+  background-color: transparent;
+  height: 226px;
+  left: -0px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.about .about-us-eggREF {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about .introduction-vRTBB9 {
+  background-color: transparent;
+  height: 951px;
+  left: 0px;
+  position: absolute;
+  top: 694px;
+  width: 1920px;
+}
+
+.about .bg-3fqrkX {
+  background-color: transparent;
+  height: 951px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.about .dot-style-NpYx6B {
+  background-color: transparent;
+  height: 951px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 1920px;
+}
+
+.about .image-3fqrkX {
+  background-color: transparent;
+  height: 614px;
+  left: 121px;
+  position: absolute;
+  top: 168px;
+  width: 978px;
+}
+
+.about .x3-Fj8bMX {
+  background-color: transparent;
+  height: 576px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 38px;
+  width: 939px;
+}
+
+.about .x2-Fj8bMX {
+  background-color: transparent;
+  height: 576px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 939px;
+}
+
+.about .x1-Fj8bMX {
+  background-color: transparent;
+  height: 576px;
+  left: 40px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 939px;
+}
+
+.about .text-3fqrkX {
+  background-color: transparent;
+  height: 707px;
+  left: 1231px;
+  position: absolute;
+  top: 122px;
+  width: 617px;
+}
+
+.about .call-out-box-2-l5JvTQ {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  position: absolute;
+  top: 548px;
+  width: 615px;
+}
+
+.about .equality-a-bran-with-confidence-JPIQQy {
+  background-color: transparent;
+  color: var(--jaguar);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 900;
+  height: 90px;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: auto;
+}
+
+.about .dollar-collected-JPIQQy {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 174px;
+}
+
+.about .rectangle-716-1xj6tx {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 170px;
+}
+
+.about .what-we-pursue-1xj6tx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 79px;
+  width: 124px;
+}
+
+.about .core-values-1xj6tx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about .call-out-box-1-l5JvTQ {
+  background-color: transparent;
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 421px;
+  width: 528px;
+}
+
+.about .rectangle-714-Iijbnz {
+  background-color: var(--telepossible-yellow);
+  border-radius: 10px;
+  height: 98px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 526px;
+}
+
+.about .hope-runs-screen-to-the-world-Iijbnz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 35px;
+  letter-spacing: 4.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.about .starting-from-l-d-nationalities-l5JvTQ {
+  background-color: transparent;
+  color: var(--jaguar);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 178px;
+  width: 547px;
+}
+
+.about .novel-way-to-connect-paitents-l5JvTQ {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transform: translate(-25px, 0);
+  width: 470px;
+}
+
+.about .novel-way-to-connect-paitents-l5JvTQ.animate-enter7 {
+  animation: animate-enter7-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.about .banner-vRTBB9 {
+  background-color: transparent;
+  height: 604px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.about .header1-vRTBB9 {
+  background-color: var(--white);
+  height: 85px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.about .header-icons-6FQoHx {
+  background-color: transparent;
+  height: 120px;
+  left: 560px;
+  position: absolute;
+  top: -18px;
+  width: 1326px;
+}
+
+.about .icon-4-AWFFxg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 630px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.about .icon-4-AWFFxg:hover {
+  transform: scale(1.1);
+}
+
+.about .contact-GlMjsM {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 150px;
+}
+
+.about .icon-3-AWFFxg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 420px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.about .icon-3-AWFFxg:hover {
+  transform: scale(1.1);
+}
+
+.about .works-k42Ft4 {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 120px;
+}
+
+.about .icon-2-AWFFxg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 210px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.about .icon-2-AWFFxg:hover {
+  transform: scale(1.1);
+}
+
+.about .about-fAAceM {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.about .icon-1-AWFFxg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.about .icon-1-AWFFxg:hover {
+  transform: scale(1.1);
+}
+
+.about .home-edSRSD {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.about .donation-button-AWFFxg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 1153px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 175px;
+}
+
+.about .donation-button-AWFFxg:hover {
+  transform: scale(1.1);
+}
+
+.about .rectangle-703-UPj1EJ {
+  background-color: var(--telepossible-red);
+  border-radius: 35px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 173px;
+}
+
+.about .donation-UPj1EJ {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.about .logo-img-6FQoHx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 116px;
+}

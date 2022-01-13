@@ -1,0 +1,863 @@
+/* screen - contact */
+
+.contact {
+  background-color: var(--white);
+  height: 2072px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.contact .footer-DhmS6L {
+  background-color: var(--white);
+  height: 400px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1671px;
+  width: 1920px;
+}
+
+.contact .copyright-mwR7bx {
+  background-color: var(--white);
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 334px;
+  width: 1925px;
+}
+
+.contact .copyright-bar-XFhZEM {
+  background-color: var(--telepossible-blue);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.contact .text-XFhZEM {
+  background-color: transparent;
+  height: 23px;
+  left: 722px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 480px;
+}
+
+.contact .contents-mwR7bx {
+  background-color: transparent;
+  height: 267px;
+  left: 0px;
+  position: absolute;
+  top: 40px;
+  width: 1920px;
+}
+
+.contact .content-background-lcqfWr {
+  background-color: var(--white);
+  height: 267px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.contact .x3-lcqfWr {
+  background-color: transparent;
+  height: 133px;
+  left: 1366px;
+  position: absolute;
+  top: 67px;
+  width: 509px;
+}
+
+.contact .law-ThqXDw {
+  background-color: transparent;
+  height: 133px;
+  left: 0px;
+  letter-spacing: -0.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 507px;
+}
+
+.contact .x2-lcqfWr {
+  background-color: transparent;
+  height: 132px;
+  left: 746px;
+  position: absolute;
+  top: 67px;
+  width: 413px;
+}
+
+.contact .sns-mluLoV {
+  background-color: transparent;
+  height: 124px;
+  left: -0px;
+  position: relative;
+  top: 8px;
+  width: 415px;
+}
+
+.contact .icons-kLqg7x {
+  background-color: transparent;
+  height: 67px;
+  left: -0px;
+  position: absolute;
+  top: 57px;
+  width: 413px;
+}
+
+.contact .facebook-icon-scVQv2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 347px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.contact .facebook-icon-scVQv2:hover {
+  transform: scale(1.1);
+}
+
+.contact .twitter-icon-scVQv2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 173px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.contact .twitter-icon-scVQv2:hover {
+  transform: scale(1.1);
+}
+
+.contact .instagram-icon-scVQv2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.contact .instagram-icon-scVQv2:hover {
+  transform: scale(1.1);
+}
+
+.contact .connect-with-us-kLqg7x {
+  background-color: transparent;
+  height: 28px;
+  left: 33px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 347px;
+}
+
+.contact .x1-lcqfWr {
+  background-color: transparent;
+  height: 112px;
+  left: 81px;
+  position: absolute;
+  top: 67px;
+  width: 457px;
+}
+
+.contact .contact-info-ZZFGNj {
+  background-color: transparent;
+  height: 105px;
+  left: 104px;
+  position: absolute;
+  top: 7px;
+  width: 357px;
+}
+
+.contact .e-mail-infotele-1-484-743-6940-jgCLn7 {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 353px;
+}
+
+.contact .contact-info-jgCLn7 {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.contact .logo-ZZFGNj {
+  background-color: transparent;
+  height: 74px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 67px;
+}
+
+.contact .upper-mwR7bx {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.contact .line-1-DiXIxc {
+  background-color: transparent;
+  height: 2px;
+  left: 348px;
+  position: absolute;
+  top: 32px;
+  width: 1204px;
+}
+
+.contact .list-of-help-DhmS6L {
+  background-color: transparent;
+  height: 224px;
+  left: 375px;
+  position: absolute;
+  top: 1335px;
+  width: 1170px;
+}
+
+.contact .list-of-help-rX5pZN {
+  background-color: transparent;
+  height: 224px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1170px;
+}
+
+.contact .mail-khx65j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 224px;
+  left: 800px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 374px;
+}
+
+.contact .mail-khx65j:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.contact .rectangle-713-ooy74m {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 14px 20px #ded7d740;
+  height: 224px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.contact .mail-us-ooy74m {
+  background-color: transparent;
+  height: auto;
+  left: 141px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact .infotelepossiblecom-ooy74m {
+  background-color: transparent;
+  height: auto;
+  left: 119px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact .group-ooy74m {
+  background-color: transparent;
+  height: 39px;
+  left: 153px;
+  position: absolute;
+  top: 54px;
+  width: 59px;
+}
+
+.contact .address-khx65j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 224px;
+  left: 400px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 374px;
+}
+
+.contact .address-khx65j:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.contact .rectangle-713-PnBg0m {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 14px 20px #ded7d740;
+  height: 224px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.contact .location-1-PnBg0m {
+  background-color: transparent;
+  height: 57px;
+  left: 153px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 42px;
+  width: 57px;
+}
+
+.contact .x333-logan-ave-s-ollege-pa-16801-PnBg0m {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact .address-PnBg0m {
+  background-color: transparent;
+  height: auto;
+  left: 130px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.contact .call-khx65j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 224px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 374px;
+}
+
+.contact .call-khx65j:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.contact .rectangle-713-kufxBP {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 14px 20px #ded7d740;
+  height: 224px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.contact .call-us-kufxBP {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact .x1-484-743-6940-kufxBP {
+  background-color: transparent;
+  height: auto;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact .call-svgrepo-com-2-kufxBP {
+  background-color: transparent;
+  height: 49px;
+  left: 147px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 49px;
+}
+
+.contact .call-svgrepo-com-1-kufxBP {
+  background-color: transparent;
+  height: 67px;
+  left: 158px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 67px;
+}
+
+.contact .map-DhmS6L {
+  background-color: transparent;
+  height: 586px;
+  left: 0px;
+  position: absolute;
+  top: 603px;
+  width: 1920px;
+}
+
+.contact .banner-DhmS6L {
+  background-color: transparent;
+  height: 618px;
+  left: -168px;
+  position: absolute;
+  top: 0px;
+  width: 2091px;
+}
+
+.contact .bg-image-NQECgX {
+  background-color: transparent;
+  height: 604px;
+  left: 165px;
+  position: absolute;
+  top: 0px;
+  width: 1926px;
+}
+
+.contact .rectangle-1-aHj9dL {
+  background-color: #f8f8f8;
+  height: 604px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 1926px;
+}
+
+.contact .effect-shape-NQECgX {
+  background-color: transparent;
+  height: 501px;
+  left: 0px;
+  position: absolute;
+  top: 117px;
+  width: 2084px;
+}
+
+.contact .polygon-5-76h8iw {
+  background-color: transparent;
+  height: 237px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 210px;
+  width: 274px;
+}
+
+.contact .polygon-9-76h8iw {
+  background-color: transparent;
+  height: 237px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 116px;
+  width: 274px;
+}
+
+.contact .polygon-6-76h8iw {
+  background-color: transparent;
+  height: 224px;
+  left: 1834px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 119px;
+  width: 208px;
+}
+
+.contact .polygon-7-76h8iw {
+  background-color: transparent;
+  height: 223px;
+  left: 1803px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 177px;
+  width: 208px;
+}
+
+.contact .polygon-8-76h8iw {
+  background-color: transparent;
+  height: 224px;
+  left: 1769px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 244px;
+  width: 208px;
+}
+
+.contact .ellipse-5-76h8iw {
+  background-color: transparent;
+  height: 31px;
+  left: 1959px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 156px;
+  width: 31px;
+}
+
+.contact .ellipse-4-76h8iw {
+  background-color: transparent;
+  height: 170px;
+  left: 200px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 170px;
+}
+
+.contact .ellipse-6-76h8iw {
+  background-color: transparent;
+  height: 72px;
+  left: 306px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 83px;
+  width: 71px;
+}
+
+.contact .text-NQECgX {
+  background-color: transparent;
+  height: 170px;
+  left: 621px;
+  position: absolute;
+  top: 261px;
+  width: 1017px;
+}
+
+.contact .underline-lku7I7 {
+  background-color: transparent;
+  height: 32px;
+  left: 312px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 433px;
+}
+
+.contact .we-are-looking-earing-from-you-lku7I7 {
+  background-color: transparent;
+  color: #494949;
+  font-family: var(--font-family-zen_kaku_gothic_antique);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 331px;
+  letter-spacing: 1.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 148px;
+  width: 350px;
+}
+
+.contact .contact-lku7I7 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_serif);
+  font-size: 120px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 125.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 1013px;
+}
+
+.contact .header-DhmS6L {
+  background-color: var(--white);
+  height: 85px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.contact .header-icons-NlxXXS {
+  background-color: transparent;
+  height: 120px;
+  left: 560px;
+  position: absolute;
+  top: -18px;
+  width: 1326px;
+}
+
+.contact .icon-4-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 630px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.contact .icon-4-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .contact-lpXNHL {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 150px;
+}
+
+.contact .icon-3-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 420px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.contact .icon-3-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .works-XCxhV8 {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 120px;
+}
+
+.contact .icon-2-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 210px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.contact .icon-2-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .about-KH2Zo4 {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.contact .icon-1-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.contact .icon-1-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .home-wxE1tu {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.contact .donation-button-7pDmUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 1153px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 175px;
+}
+
+.contact .donation-button-7pDmUn:hover {
+  transform: scale(1.1);
+}
+
+.contact .rectangle-703-pnc4Gu {
+  background-color: var(--telepossible-red);
+  border-radius: 35px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 173px;
+}
+
+.contact .donation-pnc4Gu {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact .logo-img-NlxXXS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 116px;
+}

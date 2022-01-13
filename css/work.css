@@ -1,0 +1,462 @@
+/* screen - work */
+
+.work {
+  background-color: var(--white);
+  height: 1852px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.work .image-5-vLgc0E {
+  background-color: transparent;
+  height: 1366px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 1920px;
+}
+
+.work .footer-vLgc0E {
+  background-color: var(--white);
+  height: 400px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1451px;
+  width: 1920px;
+}
+
+.work .copyright-9WxQnC {
+  background-color: var(--white);
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 334px;
+  width: 1925px;
+}
+
+.work .copyright-bar-rsxxAD {
+  background-color: var(--telepossible-blue);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.work .text-rsxxAD {
+  background-color: transparent;
+  height: 23px;
+  left: 722px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 480px;
+}
+
+.work .contents-9WxQnC {
+  background-color: transparent;
+  height: 267px;
+  left: 0px;
+  position: absolute;
+  top: 40px;
+  width: 1920px;
+}
+
+.work .content-background-rU6nWR {
+  background-color: var(--white);
+  height: 267px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.work .x3-rU6nWR {
+  background-color: transparent;
+  height: 133px;
+  left: 1366px;
+  position: absolute;
+  top: 67px;
+  width: 509px;
+}
+
+.work .law-HXQYLk {
+  background-color: transparent;
+  height: 133px;
+  left: 0px;
+  letter-spacing: -0.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 507px;
+}
+
+.work .x2-rU6nWR {
+  background-color: transparent;
+  height: 132px;
+  left: 746px;
+  position: absolute;
+  top: 67px;
+  width: 413px;
+}
+
+.work .sns-BBPaoX {
+  background-color: transparent;
+  height: 124px;
+  left: -0px;
+  position: relative;
+  top: 8px;
+  width: 415px;
+}
+
+.work .icons-0Ef8L7 {
+  background-color: transparent;
+  height: 67px;
+  left: -0px;
+  position: absolute;
+  top: 57px;
+  width: 413px;
+}
+
+.work .facebook-icon-elnPEP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 347px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.work .facebook-icon-elnPEP:hover {
+  transform: scale(1.1);
+}
+
+.work .twitter-icon-elnPEP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 173px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.work .twitter-icon-elnPEP:hover {
+  transform: scale(1.1);
+}
+
+.work .instagram-icon-elnPEP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.work .instagram-icon-elnPEP:hover {
+  transform: scale(1.1);
+}
+
+.work .connect-with-us-0Ef8L7 {
+  background-color: transparent;
+  height: 28px;
+  left: 33px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 347px;
+}
+
+.work .x1-rU6nWR {
+  background-color: transparent;
+  height: 112px;
+  left: 81px;
+  position: absolute;
+  top: 67px;
+  width: 457px;
+}
+
+.work .contact-info-QTvAl3 {
+  background-color: transparent;
+  height: 105px;
+  left: 104px;
+  position: absolute;
+  top: 7px;
+  width: 357px;
+}
+
+.work .e-mail-infotele-1-484-743-6940-ZXlTeT {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 353px;
+}
+
+.work .contact-info-ZXlTeT {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.work .logo-QTvAl3 {
+  background-color: transparent;
+  height: 74px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 67px;
+}
+
+.work .upper-9WxQnC {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.work .line-1-03mr3K {
+  background-color: transparent;
+  height: 2px;
+  left: 348px;
+  position: absolute;
+  top: 32px;
+  width: 1204px;
+}
+
+.work .header-vLgc0E {
+  background-color: var(--white);
+  height: 85px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.work .header-icons-4vjCKv {
+  background-color: transparent;
+  height: 120px;
+  left: 560px;
+  position: absolute;
+  top: -18px;
+  width: 1326px;
+}
+
+.work .icon-4-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 630px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-4-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .contact-kGlXrt {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 150px;
+}
+
+.work .icon-3-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 420px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-3-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .works-RxPoRx {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 120px;
+}
+
+.work .icon-2-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 210px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-2-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .about-yQ5vKk {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.work .icon-1-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-1-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .home-fFAkTi {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.work .donation-button-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 1153px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 175px;
+}
+
+.work .donation-button-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .rectangle-703-iU9ExI {
+  background-color: var(--telepossible-red);
+  border-radius: 35px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 173px;
+}
+
+.work .donation-iU9ExI {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .logo-img-4vjCKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 116px;
+}

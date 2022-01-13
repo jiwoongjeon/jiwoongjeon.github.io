@@ -1,0 +1,1866 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  height: 7300px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.index .footer-IO3Fu5 {
+  background-color: var(--white);
+  height: 400px;
+  left: -3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6900px;
+  width: 1920px;
+}
+
+.index .copyright-6isyAT {
+  background-color: var(--white);
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 334px;
+  width: 1925px;
+}
+
+.index .copyright-bar-xIHTbY {
+  background-color: var(--telepossible-blue);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.index .text-xIHTbY {
+  background-color: transparent;
+  height: 23px;
+  left: 722px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 480px;
+}
+
+.index .contents-6isyAT {
+  background-color: transparent;
+  height: 267px;
+  left: 0px;
+  position: absolute;
+  top: 40px;
+  width: 1920px;
+}
+
+.index .content-background-pHSo2l {
+  background-color: var(--white);
+  height: 267px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.index .x3-pHSo2l {
+  background-color: transparent;
+  height: 133px;
+  left: 1366px;
+  position: absolute;
+  top: 67px;
+  width: 509px;
+}
+
+.index .law-0vZGG7 {
+  background-color: transparent;
+  height: 133px;
+  left: 0px;
+  letter-spacing: -0.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 507px;
+}
+
+.index .x2-pHSo2l {
+  background-color: transparent;
+  height: 132px;
+  left: 746px;
+  position: absolute;
+  top: 67px;
+  width: 413px;
+}
+
+.index .sns-ak927w {
+  background-color: transparent;
+  height: 124px;
+  left: -0px;
+  position: relative;
+  top: 8px;
+  width: 415px;
+}
+
+.index .icons-kUet31 {
+  background-color: transparent;
+  height: 67px;
+  left: -0px;
+  position: absolute;
+  top: 57px;
+  width: 413px;
+}
+
+.index .facebook-icon-pH74Ag {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 347px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.index .facebook-icon-pH74Ag:hover {
+  transform: scale(1.1);
+}
+
+.index .twitter-icon-pH74Ag {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 173px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.index .twitter-icon-pH74Ag:hover {
+  transform: scale(1.1);
+}
+
+.index .instagram-icon-pH74Ag {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.index .instagram-icon-pH74Ag:hover {
+  transform: scale(1.1);
+}
+
+.index .connect-with-us-kUet31 {
+  background-color: transparent;
+  height: 28px;
+  left: 33px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 347px;
+}
+
+.index .x1-pHSo2l {
+  background-color: transparent;
+  height: 112px;
+  left: 81px;
+  position: absolute;
+  top: 67px;
+  width: 457px;
+}
+
+.index .contact-info-rLNS03 {
+  background-color: transparent;
+  height: 105px;
+  left: 104px;
+  position: absolute;
+  top: 7px;
+  width: 357px;
+}
+
+.index .e-mail-infotele-1-484-743-6940-cKZwUf {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 353px;
+}
+
+.index .contact-info-cKZwUf {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .logo-rLNS03 {
+  background-color: transparent;
+  height: 74px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 67px;
+}
+
+.index .upper-6isyAT {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.index .line-1-WdYAq8 {
+  background-color: transparent;
+  height: 2px;
+  left: 348px;
+  position: absolute;
+  top: 32px;
+  width: 1204px;
+}
+
+.index .x6-recruiting-IO3Fu5 {
+  background-color: transparent;
+  height: 597px;
+  left: 111px;
+  position: absolute;
+  top: 6043px;
+  width: 1692px;
+}
+
+.index .bg-effect-28L4uE {
+  background-color: transparent;
+  height: 492px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 1693px;
+}
+
+.index .drop-down-text-28L4uE {
+  background-color: transparent;
+  height: 569px;
+  left: 773px;
+  position: absolute;
+  top: 28px;
+  width: 805px;
+}
+
+.index .button-Ot0nyY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 277px;
+  pointer-events: auto;
+  position: absolute;
+  top: 514px;
+  transition: all 0.2s ease;
+  width: 252px;
+}
+
+.index .button-Ot0nyY:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-4-8d3fEF {
+  background-color: var(--telepossible-red);
+  border-radius: 35px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+
+.index .join-now-8d3fEF {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 800;
+  height: 29px;
+  left: 56px;
+  letter-spacing: 6.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: auto;
+}
+
+.index .box-4-Ot0nyY {
+  background-color: transparent;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: 418px;
+  width: 805px;
+}
+
+.index .help-countries-nding-worldwide-7JEB5l {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: -0.40px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .x4-plus-7JEB5l {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.index .box-3-Ot0nyY {
+  background-color: transparent;
+  height: 60px;
+  left: 2px;
+  position: absolute;
+  top: 330px;
+  width: 540px;
+}
+
+.index .overcome-diffic-ectious-disease-Lxb5ot {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: -0.40px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .x3-plus-Lxb5ot {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: 12px;
+  width: 11px;
+}
+
+.index .box-2-Ot0nyY {
+  background-color: transparent;
+  height: 60px;
+  left: 2px;
+  position: absolute;
+  top: 242px;
+  width: 609px;
+}
+
+.index .establish-natio-l-medical-staff-saOi24 {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: -0.40px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .x2-plus-saOi24 {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.index .box-1-Ot0nyY {
+  background-color: transparent;
+  height: 214px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 789px;
+}
+
+.index .unlike-a-face-t-n-need-tomorrow-nyOkID {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-zen_kaku_gothic_new);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: -0.36px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 755px;
+}
+
+.index .how-can-i-get-i-and-help-others-nyOkID {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: -0.40px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .x1-plus-nyOkID {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: 14px;
+  width: 16px;
+}
+
+.index .text-28L4uE {
+  background-color: transparent;
+  height: 591px;
+  left: 89px;
+  position: absolute;
+  top: 1px;
+  width: 542px;
+}
+
+.index .a-relationship-where-we-care-skevKH {
+  background-color: transparent;
+  color: var(--telepossible-blue);
+  font-family: var(--font-family-roboto_slab);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: auto;
+}
+
+.index .we-are-in-the-p-between-nations-skevKH {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 183px;
+  width: 530px;
+}
+
+.index .tele-possible-n-ds-doctors-help-skevKH {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transform: translate(-25px, 0);
+  width: auto;
+}
+
+.index .span0-0uvVIV {
+}
+
+.index .span1-0uvVIV {
+}
+
+.index .span2-0uvVIV {
+}
+
+.index .tele-possible-n-ds-doctors-help-skevKH.animate-enter {
+  animation: animate-enter-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .x5-funding-goals-IO3Fu5 {
+  background-color: transparent;
+  height: 1257px;
+  left: -3px;
+  position: absolute;
+  top: 4498px;
+  width: 1921px;
+}
+
+.index .bg-5XS7fN {
+  background-color: transparent;
+  height: 1257px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1921px;
+}
+
+.index .blocks-5XS7fN {
+  background-color: transparent;
+  height: 725px;
+  left: 318px;
+  position: absolute;
+  top: 384px;
+  width: 1330px;
+}
+
+.index .list-3-ZqGUk4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 806px;
+  left: 920px;
+  pointer-events: auto;
+  position: absolute;
+  top: -26px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+
+.index .list-3-ZqGUk4:hover {
+  transform: scale(1.1);
+}
+
+.index .list-2-ZqGUk4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 806px;
+  left: 440px;
+  pointer-events: auto;
+  position: absolute;
+  top: -26px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+
+.index .list-2-ZqGUk4:hover {
+  transform: scale(1.1);
+}
+
+.index .list-1-ZqGUk4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 806px;
+  left: -40px;
+  pointer-events: auto;
+  position: absolute;
+  top: -26px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+
+.index .list-1-ZqGUk4:hover {
+  transform: scale(1.1);
+}
+
+.index .title-5XS7fN {
+  background-color: transparent;
+  display: block;
+  height: 194px;
+  left: 700px;
+  opacity: 0;
+  position: absolute;
+  top: 83px;
+  transform: translate(-25px, 0);
+  width: 570px;
+}
+
+.index .title-5XS7fN.animate-enter1 {
+  animation: animate-enter1-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .donation-goals-1s68SA {
+  background-color: transparent;
+  color: #f25e25;
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 160px;
+  letter-spacing: 9.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.index .we-need-your-he-ake-this-happen-1s68SA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  width: auto;
+}
+
+.index .x4-center-info-IO3Fu5 {
+  background-color: transparent;
+  height: 1134px;
+  left: 234px;
+  position: absolute;
+  top: 3295px;
+  width: 1533px;
+}
+
+.index .bg-effect-Uyd8yI {
+  background-color: transparent;
+  height: 1135px;
+  left: 526px;
+  position: absolute;
+  top: -0px;
+  width: 959px;
+}
+
+.index .blocks-Uyd8yI {
+  background-color: transparent;
+  height: 656px;
+  left: 694px;
+  position: absolute;
+  top: 204px;
+  width: 839px;
+}
+
+.index .block-2-9oBBUZ {
+  background-color: transparent;
+  height: 494px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 560px;
+}
+
+.index .image-hnrgHQ {
+  background-color: transparent;
+  height: 495px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 561px;
+}
+
+.index .block-1-9oBBUZ {
+  background-color: transparent;
+  height: 503px;
+  left: 269px;
+  position: absolute;
+  top: 153px;
+  width: 570px;
+}
+
+.index .image-Pv6WSA {
+  background-color: transparent;
+  height: 504px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 571px;
+}
+
+.index .quote-Uyd8yI {
+  background-color: transparent;
+  height: 215px;
+  left: 800px;
+  position: absolute;
+  top: 729px;
+  width: 321px;
+}
+
+.index .text-Uyd8yI {
+  background-color: transparent;
+  height: 726px;
+  left: 0px;
+  position: absolute;
+  top: 184px;
+  width: 526px;
+}
+
+.index .our-first-targe-to-our-platform-cce12P {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-zen_kaku_gothic_new);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: 450px;
+}
+
+.index .span0-eYWwbH {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.50px;
+}
+
+.index .span1-eYWwbH {
+  color: var(--telepossible-blue);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0.50px;
+}
+
+.index .span2-eYWwbH {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.50px;
+}
+
+.index .title-cce12P {
+  background-color: transparent;
+  display: block;
+  height: 150px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  transform: translate(-25px, 0);
+  width: auto;
+}
+
+.index .title-cce12P.animate-enter2 {
+  animation: animate-enter2-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .actions-cce12P {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 9.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 300px;
+}
+
+.index .x3-three-obligations-IO3Fu5 {
+  background-color: transparent;
+  height: 1041px;
+  left: -398px;
+  position: absolute;
+  top: 2165px;
+  width: 2715px;
+}
+
+.index .bg-ZjXQll {
+  background-color: transparent;
+  height: 1042px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 2716px;
+}
+
+.index .bg-effect-ZjXQll {
+  background-color: transparent;
+  height: 737px;
+  left: 547px;
+  position: absolute;
+  top: 207px;
+  width: 1626px;
+}
+
+.index .blocks-ZjXQll {
+  background-color: transparent;
+  height: 420px;
+  left: 647px;
+  position: absolute;
+  top: 406px;
+  width: 1422px;
+}
+
+.index .block-3-F7kAf9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 420px;
+  left: 526px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.index .block-3-F7kAf9:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.index .bg-raf3bX {
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.index .content-raf3bX {
+  background-color: transparent;
+  height: 297px;
+  left: 23px;
+  position: absolute;
+  top: 46px;
+  width: 329px;
+}
+
+.index .text-Qu83TC {
+  background-color: transparent;
+  height: 74px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 321px;
+}
+
+.index .title-Qu83TC {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 2.30px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 250px;
+}
+
+.index .image-Qu83TC {
+  background-color: transparent;
+  height: 81px;
+  left: 122px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.index .ellipse-648-3gaUee {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.index .global-3gaUee {
+  background-color: transparent;
+  height: 70px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 70px;
+}
+
+.index .block-2-F7kAf9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 420px;
+  left: 1052px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.index .block-2-F7kAf9:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.index .bg-EdCBql {
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.index .content-EdCBql {
+  background-color: transparent;
+  height: 247px;
+  left: 22px;
+  position: absolute;
+  top: 56px;
+  width: 329px;
+}
+
+.index .text-M372LW {
+  background-color: transparent;
+  height: 47px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 194px;
+  width: 321px;
+}
+
+.index .title-M372LW {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 2.30px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 250px;
+}
+
+.index .image-M372LW {
+  background-color: transparent;
+  height: 81px;
+  left: 122px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.index .ellipse-648-3Jn6GZ {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.index .moral-icon-3Jn6GZ {
+  background-color: transparent;
+  height: 70px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 70px;
+}
+
+.index .block-1-F7kAf9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 420px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 370px;
+}
+
+.index .block-1-F7kAf9:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.index .bg-ekZKHs {
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.index .content-ekZKHs {
+  background-color: transparent;
+  height: 277px;
+  left: 22px;
+  position: absolute;
+  top: 56px;
+  width: 329px;
+}
+
+.index .text-UlrH2x {
+  background-color: transparent;
+  height: 74px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 195px;
+  width: 310px;
+}
+
+.index .title-UlrH2x {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 2.30px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  width: 250px;
+}
+
+.index .image-UlrH2x {
+  background-color: transparent;
+  height: 81px;
+  left: 122px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.index .ellipse-648-xN7KGm {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.index .social-icon-xN7KGm {
+  background-color: transparent;
+  height: 70px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 70px;
+}
+
+.index .title-ZjXQll {
+  background-color: transparent;
+  display: block;
+  height: 121px;
+  left: 907px;
+  opacity: 0;
+  position: absolute;
+  top: 161px;
+  width: 905px;
+}
+
+.index .title-ZjXQll.animate-enter3 {
+  animation: animate-enter3-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .tele-possibles-ree-obligations-6ztwDf {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.index .span0-ogru8e {
+}
+
+.index .span1-ogru8e {
+}
+
+.index .span2-ogru8e {
+}
+
+.index .obligations-6ztwDf {
+  background-color: transparent;
+  height: 30px;
+  left: 325px;
+  letter-spacing: 9.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 250px;
+}
+
+.index .x2-about-IO3Fu5 {
+  background-color: transparent;
+  height: 928px;
+  left: 77px;
+  position: absolute;
+  top: 1221px;
+  width: 2389px;
+}
+
+.index .bg-effects-1SDZpC {
+  background-color: transparent;
+  height: 850px;
+  left: 0px;
+  position: absolute;
+  top: 78px;
+  width: 2389px;
+}
+
+.index .ellipse-6-S1TEx3 {
+  background-color: #e1e1e1;
+  border-radius: 336.5px;
+  height: 673px;
+  left: 1716px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 673px;
+}
+
+.index .vector-smart-object-copy-S1TEx3 {
+  background-color: transparent;
+  height: 197px;
+  left: 1639px;
+  position: absolute;
+  top: 155px;
+  width: 196px;
+}
+
+.index .vector-smart-object-copy-4-S1TEx3 {
+  background-color: transparent;
+  height: 259px;
+  left: -0px;
+  position: absolute;
+  top: 591px;
+  width: 191px;
+}
+
+.index .image-1SDZpC {
+  background-color: transparent;
+  height: 846px;
+  left: 42px;
+  position: absolute;
+  top: 0px;
+  width: 848px;
+}
+
+.index .ellipse-5-z9H0nt {
+  background-color: transparent;
+  height: 800px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 811px;
+}
+
+.index .ellipse-714-z9H0nt {
+  background-color: transparent;
+  height: 223px;
+  left: 387px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64px;
+  width: 278px;
+}
+
+.index .text-1SDZpC {
+  background-color: transparent;
+  height: 647px;
+  left: 865px;
+  position: absolute;
+  top: 99px;
+  width: 706px;
+}
+
+.index .button-7rjHIJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 583px;
+  transition: all 0.2s ease;
+  width: 252px;
+}
+
+.index .button-7rjHIJ:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-4-AggjjH {
+  background-color: transparent;
+  border: 2px solid var(--black);
+  border-radius: 35px;
+  height: 64px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+
+.index .learn-more-AggjjH {
+  background-color: transparent;
+  color: #141313;
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 52px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: auto;
+}
+
+.index .providing-consi-nding-worldwide-7rjHIJ {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-zen_kaku_gothic_new);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: 216px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 302px;
+  width: 700px;
+}
+
+.index .span0-mNPDs5 {
+  font-style: normal;
+  letter-spacing: 0.50px;
+}
+
+.index .span1-mNPDs5 {
+  font-style: normal;
+  letter-spacing: 0.50px;
+}
+
+.index .span2-mNPDs5 {
+  font-style: normal;
+  letter-spacing: 0.50px;
+}
+
+.index .span3-mNPDs5 {
+  font-style: normal;
+  letter-spacing: 0.50px;
+}
+
+.index .span4-mNPDs5 {
+  font-style: normal;
+  letter-spacing: 0.50px;
+}
+
+.index .tele-possible-e-tarting-in-laos-7rjHIJ {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-zen_kaku_gothic_new);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 144px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: 700px;
+}
+
+.index .span0-9d7M68 {
+  color: var(--jaguar);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.50px;
+}
+
+.index .span1-9d7M68 {
+  font-style: normal;
+  letter-spacing: 0.50px;
+}
+
+.index .span2-9d7M68 {
+  font-style: normal;
+  letter-spacing: 0.50px;
+}
+
+.index .we-are-here-to-7rjHIJ {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .span0-eIE0rk {
+}
+
+.index .span1-eIE0rk {
+}
+
+.index .we-are-here-to-7rjHIJ.animate-enter4 {
+  animation: animate-enter4-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .x1-banner-IO3Fu5 {
+  background-color: transparent;
+  height: 1265px;
+  left: -294px;
+  position: absolute;
+  top: -104px;
+  width: 2643px;
+}
+
+.index .bg-image-6rJvJ3 {
+  background-color: transparent;
+  height: 1008px;
+  left: 293px;
+  position: absolute;
+  top: 188px;
+  width: 1920px;
+}
+
+.index .effect-shape-6rJvJ3 {
+  background-color: transparent;
+  height: 1265px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 2643px;
+}
+
+.index .donation-button-6rJvJ3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 625px;
+  pointer-events: auto;
+  position: absolute;
+  top: 765px;
+  transition: all 0.2s ease;
+  width: 228px;
+}
+
+.index .donation-button-6rJvJ3:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-702-S3TmO8 {
+  background-color: var(--telepossible-blue);
+  border-radius: 35px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 226px;
+}
+
+.index .join-now-S3TmO8 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .title-6rJvJ3 {
+  background-color: transparent;
+  height: 218px;
+  left: 625px;
+  position: absolute;
+  top: 499px;
+  width: 1502px;
+}
+
+.index .text-KMqd1u {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-family: var(--font-family-noto_serif);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  height: 218px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transform: translate(-25px, 0);
+  width: 1500px;
+}
+
+.index .text-KMqd1u.animate-enter5 {
+  animation: animate-enter5-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .group-28-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 102px;
+  left: 893px;
+  pointer-events: auto;
+  position: absolute;
+  top: 5631px;
+  transition: all 0.2s ease;
+  width: 166px;
+}
+
+.index .group-28-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .button-yobtVe {
+  background-color: transparent;
+  height: 102px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 166px;
+}
+
+.index .donation-button-ud3G0L {
+  background-color: transparent;
+  height: 102px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 168px;
+}
+
+.index .rectangle-703-hhDKQB {
+  background-color: var(--white);
+  border: 1.7px solid #fe6711;
+  border-radius: 29.75px;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 166px;
+}
+
+.index .donation-hhDKQB {
+  background-color: transparent;
+  color: #f96703;
+  font-family: var(--font-family-oswald);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 102px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.index .donation-svgrepo-com-1-hhDKQB {
+  background-color: transparent;
+  height: 23px;
+  left: 117px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 22px;
+}
+
+.index .header-IO3Fu5 {
+  background-color: var(--white);
+  height: 85px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.index .header-icons-74EEvB {
+  background-color: transparent;
+  height: 120px;
+  left: 560px;
+  position: absolute;
+  top: -18px;
+  width: 1326px;
+}
+
+.index .icon-4-SZtHRL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 630px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.index .icon-4-SZtHRL:hover {
+  transform: scale(1.1);
+}
+
+.index .contact-D3BOeX {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 150px;
+}
+
+.index .icon-3-SZtHRL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 420px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.index .icon-3-SZtHRL:hover {
+  transform: scale(1.1);
+}
+
+.index .works-jbQfaW {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 120px;
+}
+
+.index .icon-2-SZtHRL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 210px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.index .icon-2-SZtHRL:hover {
+  transform: scale(1.1);
+}
+
+.index .about-rmcG5e {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.index .icon-1-SZtHRL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.index .icon-1-SZtHRL:hover {
+  transform: scale(1.1);
+}
+
+.index .home-nFYVbW {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.index .donation-button-SZtHRL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 1153px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 175px;
+}
+
+.index .donation-button-SZtHRL:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-703-blnKKl {
+  background-color: var(--telepossible-red);
+  border-radius: 35px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 173px;
+}
+
+.index .donation-blnKKl {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .logo-img-74EEvB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 116px;
+}
+
+.index .image-IO3Fu5 {
+  background-color: transparent;
+  height: 579px;
+  left: 181px;
+  position: absolute;
+  top: 1352px;
+  width: 495px;
+}
+
+.index .screen-shot-202-11-16-at-1224-1-IO3Fu5 {
+  background-color: transparent;
+  height: 580px;
+  left: 227px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1320px;
+  width: 481px;
+}

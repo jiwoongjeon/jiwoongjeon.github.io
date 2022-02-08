@@ -1,0 +1,939 @@
+/* screen - work */
+
+.work {
+  background-color: var(--white);
+  height: 1852px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.work .image-51-vLgc0E {
+  background-color: transparent;
+  height: 1366px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 1920px;
+}
+
+.work .footer-vLgc0E {
+  background-color: var(--white);
+  height: 400px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1451px;
+  width: 1920px;
+}
+
+.work .copyright-9WxQnC {
+  background-color: var(--white);
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 334px;
+  width: 1925px;
+}
+
+.work .copyright-bar-rsxxAD {
+  background-color: var(--telepossible-blue);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.work .text-rsxxAD {
+  background-color: transparent;
+  height: 23px;
+  left: 722px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 480px;
+}
+
+.work .contents-9WxQnC {
+  background-color: transparent;
+  height: 267px;
+  left: 0px;
+  position: absolute;
+  top: 40px;
+  width: 1920px;
+}
+
+.work .content-background-rU6nWR {
+  background-color: var(--white);
+  height: 267px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.work .x3-rU6nWR {
+  background-color: transparent;
+  height: 133px;
+  left: 1366px;
+  position: absolute;
+  top: 67px;
+  width: 509px;
+}
+
+.work .law-HXQYLk {
+  background-color: transparent;
+  height: 133px;
+  left: 0px;
+  letter-spacing: -0.40px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 507px;
+}
+
+.work .x2-rU6nWR {
+  background-color: transparent;
+  height: 124px;
+  left: 746px;
+  position: absolute;
+  top: 75px;
+  width: 413px;
+}
+
+.work .sns-BBPaoX {
+  background-color: transparent;
+  height: 124px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 415px;
+}
+
+.work .icons-0Ef8L7 {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  position: absolute;
+  top: 57px;
+  width: 413px;
+}
+
+.work .facebook-icon-elnPEP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 347px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.work .facebook-icon-elnPEP:hover {
+  transform: scale(1.1);
+}
+
+.work .twitter-icon-elnPEP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: 173px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.work .twitter-icon-elnPEP:hover {
+  transform: scale(1.1);
+}
+
+.work .instagram-icon-elnPEP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 67px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.work .instagram-icon-elnPEP:hover {
+  transform: scale(1.1);
+}
+
+.work .connect-with-us-0Ef8L7 {
+  background-color: transparent;
+  height: 28px;
+  left: 33px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 347px;
+}
+
+.work .x1-rU6nWR {
+  background-color: transparent;
+  height: 105px;
+  left: 81px;
+  position: absolute;
+  top: 74px;
+  width: 457px;
+}
+
+.work .contact-info-QTvAl3 {
+  background-color: transparent;
+  height: 105px;
+  left: 104px;
+  position: absolute;
+  top: 0px;
+  width: 357px;
+}
+
+.work .e-mail-infotele-1-484-743-6940-ZXlTeT {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: 353px;
+}
+
+.work .contact-info-ZXlTeT {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 9.62px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.work .logo-QTvAl3 {
+  background-color: transparent;
+  height: 74px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 67px;
+}
+
+.work .upper-9WxQnC {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1925px;
+}
+
+.work .line-1-03mr3K {
+  background-color: transparent;
+  height: 2px;
+  left: 348px;
+  position: absolute;
+  top: 32px;
+  width: 1204px;
+}
+
+.work .header-vLgc0E {
+  background-color: var(--white);
+  height: 85px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.work .header-icons-4vjCKv {
+  background-color: transparent;
+  height: 120px;
+  left: 560px;
+  position: absolute;
+  top: -18px;
+  width: 1326px;
+}
+
+.work .icon-4-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 630px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-4-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .contact-kGlXrt {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 150px;
+}
+
+.work .icon-3-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 420px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-3-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .works-RxPoRx {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 120px;
+}
+
+.work .icon-2-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 210px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-2-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .about-yQ5vKk {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.work .icon-1-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 172px;
+}
+
+.work .icon-1-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .home-fFAkTi {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 90px;
+}
+
+.work .donation-button-67uA9w {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: 1153px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 175px;
+}
+
+.work .donation-button-67uA9w:hover {
+  transform: scale(1.1);
+}
+
+.work .rectangle-703-iU9ExI {
+  background-color: var(--telepossible-red);
+  border-radius: 35px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 173px;
+}
+
+.work .donation-iU9ExI {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .logo-img-4vjCKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 116px;
+}
+/* screen - work-1 */
+
+.work-1 {
+  background-color: var(--white);
+  height: 1731px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1680px;
+}
+
+.work-1 .image-5-X7GYZM {
+  background-color: transparent;
+  height: 1200px;
+  left: -3px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 1686px;
+}
+
+.work-1 .footer-X7GYZM {
+  background-color: var(--white);
+  height: 350px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1381px;
+  width: 1680px;
+}
+
+.work-1 .copyright-5oc2ku {
+  background-color: var(--white);
+  height: 59px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 293px;
+  width: 1688px;
+}
+
+.work-1 .copyright-bar-Vosp1R {
+  background-color: var(--telepossible-blue);
+  height: 59px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1688px;
+}
+
+.work-1 .text-Vosp1R {
+  background-color: transparent;
+  height: 20px;
+  left: 633px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 421px;
+}
+
+.work-1 .contents-5oc2ku {
+  background-color: transparent;
+  height: 234px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 1684px;
+}
+
+.work-1 .content-background-yFWe1C {
+  background-color: var(--white);
+  height: 234px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1684px;
+}
+
+.work-1 .x3-yFWe1C {
+  background-color: transparent;
+  height: 117px;
+  left: 1198px;
+  position: absolute;
+  top: 58px;
+  width: 446px;
+}
+
+.work-1 .law-ZJ5e3N {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  letter-spacing: -0.35px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 444px;
+}
+
+.work-1 .x2-yFWe1C {
+  background-color: transparent;
+  height: 109px;
+  left: 654px;
+  position: absolute;
+  top: 65px;
+  width: 363px;
+}
+
+.work-1 .sns-rAddhF {
+  background-color: transparent;
+  height: 109px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 365px;
+}
+
+.work-1 .icons-dHKkjI {
+  background-color: transparent;
+  height: 58px;
+  left: -0px;
+  position: absolute;
+  top: 50px;
+  width: 363px;
+}
+
+.work-1 .facebook-icon-BZ79SK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 304px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.work-1 .facebook-icon-BZ79SK:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .twitter-icon-BZ79SK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 152px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.work-1 .twitter-icon-BZ79SK:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .instagram-icon-BZ79SK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.work-1 .instagram-icon-BZ79SK:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .connect-with-us-dHKkjI {
+  background-color: transparent;
+  height: 25px;
+  left: 29px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -0px;
+  width: 304px;
+}
+
+.work-1 .x1-yFWe1C {
+  background-color: transparent;
+  height: 92px;
+  left: 71px;
+  position: absolute;
+  top: 65px;
+  width: 401px;
+}
+
+.work-1 .contact-info-JIOjox {
+  background-color: transparent;
+  height: 92px;
+  left: 91px;
+  position: absolute;
+  top: 0px;
+  width: 314px;
+}
+
+.work-1 .e-mail-infotele-1-484-743-6940-CThVBY {
+  background-color: transparent;
+  height: 57px;
+  left: -0px;
+  letter-spacing: 1.76px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 310px;
+}
+
+.work-1 .contact-info-CThVBY {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 8.44px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.work-1 .logo-JIOjox {
+  background-color: transparent;
+  height: 64px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 59px;
+}
+
+.work-1 .upper-5oc2ku {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1688px;
+}
+
+.work-1 .line-1-sNhVcu {
+  background-color: transparent;
+  height: 2px;
+  left: 305px;
+  position: absolute;
+  top: 28px;
+  width: 1057px;
+}
+
+.work-1 .header-X7GYZM {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 0px;
+  width: 1687px;
+}
+
+.work-1 .header-icons-OgbVFy {
+  background-color: transparent;
+  height: 106px;
+  left: 492px;
+  position: absolute;
+  top: -16px;
+  width: 1165px;
+}
+
+.work-1 .icon-4-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 553px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-4-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .contact-xYFZjw {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 132px;
+}
+
+.work-1 .icon-3-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 369px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-3-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .works-rlIsN5 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 105px;
+}
+
+.work-1 .icon-2-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 184px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-2-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .about-Ewr3Hu {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 79px;
+}
+
+.work-1 .icon-1-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 29px;
+  transition: all 0.2s ease;
+  width: 151px;
+}
+
+.work-1 .icon-1-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .home-mYa9I4 {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 5.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 79px;
+}
+
+.work-1 .donation-button-UiIi9n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 106px;
+  left: 1013px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 154px;
+}
+
+.work-1 .donation-button-UiIi9n:hover {
+  transform: scale(1.1);
+}
+
+.work-1 .rectangle-703-xzK3Qj {
+  background-color: var(--telepossible-red);
+  border-radius: 30.75px;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 152px;
+}
+
+.work-1 .donation-xzK3Qj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 105.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work-1 .logo-img-OgbVFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 102px;
+}
+@media screen and (max-width: 1919px) {
+  .screen.work { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.work-1 { 
+    display: none;
+   }
+}
